@@ -16,7 +16,11 @@ Esse perfil foi criado para compartilhar meus projetos durante meus estudos.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+## Estudando:
 
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NEST](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![SPRING BOOT](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittorfraga&layout=compact)](https://github.com/vittorfraga/github-readme-stats)
