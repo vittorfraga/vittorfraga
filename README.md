@@ -1,6 +1,6 @@
 # Olá Pessoal
 
-Me chamo Carlos, iniciei meus estudos em programação no curso de Desenvolvimento de Software Full Stack ministrado pela Cubos Academy em 2022 e em 2023 iniciei o curso de Análise e Desenvolvimento de Sistemas na UNISINOS - Universidade do Vale do Rio dos Sinos 
+Me chamo Carlos, iniciei meus estudos em programação no curso de Desenvolvimento de Software Full Stack ministrado pela Cubos Academy em 2022. ```e em 2023 iniciei o curso de Análise e Desenvolvimento de Sistemas na UNISINOS - Universidade do Vale do Rio dos Sinos``` 
 
 Esse perfil foi criado para compartilhar meus projetos durante meus estudos.
 
