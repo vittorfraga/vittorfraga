@@ -1,8 +1,5 @@
 # Olá Pessoal
 
-Me chamo Carlos, iniciei meus estudos em programação no curso de Desenvolvimento de Software Full Stack ministrado pela Cubos Academy em 2022. 
-
-
 Esse perfil foi criado para compartilhar meus projetos durante meus estudos.
 
 ## Para me encontrar:
