@@ -1,6 +1,6 @@
 # Olá Pessoal
 
-Esse perfil foi criado para compartilhar meus projetos durante meus estudos.
+Me Chamo Carlos Vitor, e neste perfil compartilho meus projetos durante meus estudos.
 
 ## Para me encontrar:
 
